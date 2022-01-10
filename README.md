@@ -1,2 +1,2 @@
 # odin-recipes
-Recipe mock website with pure HTML
+Recipe website with pure HTML
