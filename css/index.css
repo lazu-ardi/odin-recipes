@@ -1,0 +1,9 @@
+.head, .body {
+    font-size: medium;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.head, .body .text {
+    font-size: larger;
+}
